@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PuroGrammer</h1>
 <h3 align="center">A passionate flutter developer from Pakistan</h3>
 
-<p align="center"> <img src="https://blog.codemagic.io/uploads/covers/CM_Flutter-dev-profile_Header.png" alt="This is a purogrammer. He is a fullstack flutter developer. Purogrammer on github."  height="350"/> </p>
+<p align="center"> <img src="https://blog.codemagic.io/uploads/covers/CM_Flutter-dev-profile_Header.png" alt="This is a purogrammer. He is a fullstack flutter developer. Purogrammer on github." /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/purogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/purogrammer?logo=twitter&style=for-the-badge" alt="purogrammer" /></a> </p> -->
 
