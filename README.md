@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PuroGrammer</h1>
-<h3 align="center">A passionate flutter developer from Pakistan</h3>
+<h3 align="center">A passionate web developer from Pakistan</h3>
 
 <p align="center"> <img src="https://blog.codemagic.io/uploads/covers/CM_Flutter-dev-profile_Header.png" alt="This is a purogrammer. He is a fullstack flutter developer. Purogrammer on github." /> </p>
 
